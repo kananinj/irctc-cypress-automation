@@ -1,23 +1,23 @@
 {
-  "TRAIN_NO": "13185",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAIN_NO": "19418",
+  "TRAIN_COACH": "SL",
+  "TRAVEL_DATE": "15/01/2025",
+  "SOURCE_STATION": "ST",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
-  "TATKAL": true,
+  "DESTINATION_STATION": "BVI",
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "kananinj@oksbi",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Nikunj Kanani",
+      "AGE": 30,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
+      "NAME": "Jyoti Kanani",
       "AGE": 26,
       "GENDER": "Female",
       "SEAT": "No Preference",
